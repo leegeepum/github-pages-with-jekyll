@@ -1,3 +1,9 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+This blog is just to test how github works.
+
+## What to test
+
+1. markdowns
+2. look and feel
+3. ease of use
